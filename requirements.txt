@@ -1,0 +1,3 @@
+git+https://github.com/Sajeg/UnlimitedGPT
+TTS~=0.16.6
+py-cord~=2.4.1
