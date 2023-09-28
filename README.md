@@ -2,7 +2,7 @@
 A Python Script for using ChatGPT with Discord as a Story creater
 
 # Video demonstration
-You can find one with this link.
+You can find one with this [link](https://youtu.be/LMop1hHl3Jg).
 
 # Used Software
 
